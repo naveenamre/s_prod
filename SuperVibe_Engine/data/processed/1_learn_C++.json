@@ -1,0 +1,50 @@
+{
+  "project_id": "cpp_beginner",
+  "project_name": "C++ Beginner Journey",
+  "project_tag": "C++",
+  "priority": 1,
+  "default_category": "Code",
+  "default_energy": "High",
+  "tasks": [
+    {
+      "id": "cpp_01",
+      "name": "C++ Lecture 1: Introduction & Setup",
+      "category": "Code",
+      "energy_req": "High",
+      "duration": 60,
+      "sequence_order": 1,
+      "dependencies": [],
+      "notes": "Install compiler and run first Hello World program"
+    },
+    {
+      "id": "cpp_02",
+      "name": "C++ Lecture 2: Variables & Data Types",
+      "category": "Code",
+      "energy_req": "Medium",
+      "duration": 75,
+      "sequence_order": 2,
+      "dependencies": ["cpp_01"],
+      "notes": "Practice int, float, char and basic input/output"
+    },
+    {
+      "id": "cpp_03",
+      "name": "C++ Lecture 3: Conditional Statements",
+      "category": "Code",
+      "energy_req": "High",
+      "duration": 90,
+      "sequence_order": 3,
+      "dependencies": ["cpp_02"],
+      "notes": "Solve 5 basic if-else problems"
+    },
+    {
+      "id": "cpp_04",
+      "name": "C++ Lecture 4: Loops (for, while)",
+      "category": "Code",
+      "energy_req": "Medium",
+      "duration": 90,
+      "sequence_order": 4,
+      "dependencies": ["cpp_03"],
+      "notes": "Create pattern programs and number series"
+    }
+  ]
+}
