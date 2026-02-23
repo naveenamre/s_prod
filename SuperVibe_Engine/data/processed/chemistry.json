@@ -1,0 +1,112 @@
+{
+  "project_id": "chem_sem_prep",
+  "project_name": "Chemistry Semester Preparation",
+  "project_tag": "Chemistry",
+  "priority": 1,
+  "default_category": "Study",
+  "default_energy": "Medium",
+  "tasks": [
+    {
+      "name": "Unit 1 - Rutherford Model & Bohr Theory",
+      "energy_req": "High",
+      "duration": 60,
+      "notes": "Atomic models, limitations, basic concepts"
+    },
+    {
+      "name": "Unit 1 - Orbital Concept & Shapes (s, p, d)",
+      "energy_req": "High",
+      "duration": 60,
+      "notes": "Draw orbital shapes and understand quantum numbers"
+    },
+    {
+      "name": "Unit 1 - Electronic Configuration Rules",
+      "energy_req": "Medium",
+      "duration": 60,
+      "notes": "Pauli, Hund, Aufbau, practice upto atomic number 30"
+    },
+    {
+      "name": "Unit 1 - Chemical Bonding & Hybridization",
+      "energy_req": "High",
+      "duration": 60,
+      "notes": "Ionic, covalent bonds and hybridization examples"
+    },
+    {
+      "name": "Unit 1 - Solutions & Concentration Methods",
+      "energy_req": "Medium",
+      "duration": 60,
+      "notes": "Molarity, ppm and basic numericals"
+    },
+    {
+      "name": "Unit 2 - Water Distribution & Hardness Basics",
+      "energy_req": "Medium",
+      "duration": 60,
+      "notes": "Graph practice, soft vs hard water, units"
+    },
+    {
+      "name": "Unit 2 - Boiler Problems & EDTA Method",
+      "energy_req": "High",
+      "duration": 60,
+      "notes": "Scale, sludge, corrosion and hardness numericals"
+    },
+    {
+      "name": "Unit 2 - Water Softening & Treatment",
+      "energy_req": "Medium",
+      "duration": 60,
+      "notes": "Soda lime, zeolite, ion exchange, municipal treatment"
+    },
+    {
+      "name": "Unit 3 - Metallurgy & Extraction of Iron",
+      "energy_req": "High",
+      "duration": 60,
+      "notes": "Blast furnace process and reactions"
+    },
+    {
+      "name": "Unit 3 - Alloys & Cement",
+      "energy_req": "Medium",
+      "duration": 60,
+      "notes": "Ferrous/non-ferrous alloys, cement setting"
+    },
+    {
+      "name": "Unit 3 - Polymers & Rubber",
+      "energy_req": "High",
+      "duration": 60,
+      "notes": "PVC, PS, Nylon-6,6, Bakelite and vulcanization"
+    },
+    {
+      "name": "Unit 4 - Fuels & Calorific Values",
+      "energy_req": "Medium",
+      "duration": 60,
+      "notes": "Fuel types, HCV, LCV, coal analysis"
+    },
+    {
+      "name": "Unit 4 - Fuel Rating & Gaseous Fuels",
+      "energy_req": "Medium",
+      "duration": 60,
+      "notes": "Octane, cetane, LPG, CNG, biogas"
+    },
+    {
+      "name": "Unit 4 - Lubrication & Properties",
+      "energy_req": "Low",
+      "duration": 60,
+      "notes": "Viscosity, flash point, pour point and examples"
+    },
+    {
+      "name": "Unit 5 - Redox & Electrolysis Basics",
+      "energy_req": "High",
+      "duration": 60,
+      "notes": "Oxidation, reduction, Faraday laws"
+    },
+    {
+      "name": "Unit 5 - Industrial Applications of Electrolysis",
+      "energy_req": "Medium",
+      "duration": 60,
+      "notes": "Electroplating, refining, electrometallurgy"
+    },
+    {
+      "name": "Unit 5 - Corrosion & Prevention",
+      "energy_req": "Medium",
+      "duration": 60,
+      "notes": "Types of corrosion and preventive measures"
+    }
+  ]
+}

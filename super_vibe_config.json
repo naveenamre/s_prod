@@ -1,0 +1,26 @@
+{
+  "system": {
+    "engine_name": "Super-Vibe Engine V2.0",
+    "user_name": "Naveen",
+    "version": "2.0.0"
+  },
+  "tag_colors": {
+    "High Energy": "#e11826",
+    "Medium Energy": "#ffb300",
+    "Low Energy": "#388e3c"
+  },
+  "project_themes": {
+    "Chemistry Semester Preparation": "#ffeb3b",
+    "C++ Beginner Journey": "#00e676",
+    "English": "#42a5f5"
+  },
+  "pomodoro": {
+    "enabled": true,
+    "default_work_mins": 50,
+    "default_break_mins": 10
+  },
+  "watcher": {
+    "check_interval_seconds": 3,
+    "keep_backups_limit": 5
+  }
+}

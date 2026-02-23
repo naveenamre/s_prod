@@ -1,0 +1,43 @@
+{
+  "project_id": "jp_course_01",
+  "project_name": "Japanese Learning Journey",
+  "project_tag": "Japanese",
+  "priority": 1,
+  "default_category": "Learn",
+  "default_energy": "Medium",
+  "tasks": [
+    {
+      "id": "jp_lec_01",
+      "name": "Lecture 1: Hiragana Basics",
+      "energy_req": "High",
+      "duration": 60,
+      "sequence_order": 1,
+      "notes": "Focus on writing practice and pronunciation"
+    },
+    {
+      "id": "jp_lec_02",
+      "name": "Lecture 2: Katakana Introduction",
+      "duration": 75,
+      "sequence_order": 2,
+      "dependencies": ["jp_lec_01"],
+      "notes": "Practice loan words and flashcards"
+    },
+    {
+      "id": "jp_lec_03",
+      "name": "Lecture 3: Basic Greetings",
+      "energy_req": "Low",
+      "duration": 45,
+      "sequence_order": 3,
+      "dependencies": ["jp_lec_02"],
+      "notes": "Practice speaking aloud 10 times"
+    },
+    {
+      "id": "jp_lec_04",
+      "name": "Lecture 4: Numbers & Counting",
+      "duration": 60,
+      "sequence_order": 4,
+      "dependencies": ["jp_lec_03"],
+      "notes": "Include listening practice"
+    }
+  ]
+}
